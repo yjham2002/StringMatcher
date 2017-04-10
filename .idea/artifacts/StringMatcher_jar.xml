@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StringMatcher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StringMatcher_jar</output-path>
+    <root id="archive" name="StringMatcher.jar">
+      <element id="module-output" name="StringMatcher" />
+    </root>
+  </artifact>
+</component>
